@@ -1,0 +1,1 @@
+Projeto sugerido pelo bootcamp JavaScript Game Developer nomeado como "Construindo seu primeiro jogo de naves", ministrado por Denilson Bonatti.
